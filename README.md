@@ -1,0 +1,1 @@
+Personal logs terminal. Inspired by the game Alien Isolation.
